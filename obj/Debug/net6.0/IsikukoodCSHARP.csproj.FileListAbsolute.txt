@@ -1,0 +1,15 @@
+C:\Users\Matti\source\repos\IsikukoodCSHARP-master\obj\Debug\net6.0\IsikukoodCSHARP.csproj.AssemblyReference.cache
+C:\Users\Matti\source\repos\IsikukoodCSHARP-master\obj\Debug\net6.0\IsikukoodCSHARP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matti\source\repos\IsikukoodCSHARP-master\obj\Debug\net6.0\IsikukoodCSHARP.AssemblyInfoInputs.cache
+C:\Users\Matti\source\repos\IsikukoodCSHARP-master\obj\Debug\net6.0\IsikukoodCSHARP.AssemblyInfo.cs
+C:\Users\Matti\source\repos\IsikukoodCSHARP-master\obj\Debug\net6.0\IsikukoodCSHARP.csproj.CoreCompileInputs.cache
+C:\Users\Matti\source\repos\IsikukoodCSHARP-master\bin\Debug\net6.0\IsikukoodCSHARP.exe
+C:\Users\Matti\source\repos\IsikukoodCSHARP-master\bin\Debug\net6.0\IsikukoodCSHARP.deps.json
+C:\Users\Matti\source\repos\IsikukoodCSHARP-master\bin\Debug\net6.0\IsikukoodCSHARP.runtimeconfig.json
+C:\Users\Matti\source\repos\IsikukoodCSHARP-master\bin\Debug\net6.0\IsikukoodCSHARP.dll
+C:\Users\Matti\source\repos\IsikukoodCSHARP-master\bin\Debug\net6.0\IsikukoodCSHARP.pdb
+C:\Users\Matti\source\repos\IsikukoodCSHARP-master\obj\Debug\net6.0\IsikukoodCSHARP.dll
+C:\Users\Matti\source\repos\IsikukoodCSHARP-master\obj\Debug\net6.0\refint\IsikukoodCSHARP.dll
+C:\Users\Matti\source\repos\IsikukoodCSHARP-master\obj\Debug\net6.0\IsikukoodCSHARP.pdb
+C:\Users\Matti\source\repos\IsikukoodCSHARP-master\obj\Debug\net6.0\IsikukoodCSHARP.genruntimeconfig.cache
+C:\Users\Matti\source\repos\IsikukoodCSHARP-master\obj\Debug\net6.0\ref\IsikukoodCSHARP.dll

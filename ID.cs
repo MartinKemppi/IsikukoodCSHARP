@@ -6,7 +6,14 @@ using System.Threading.Tasks;
 
 namespace IsikukoodCSHARP
 {
-    internal class ID
+    class ID
     {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Sisesta palju inimesi tuli");
+            int maxMembers = Convert.ToInt32(Console.ReadLine());
+            List<IdCode> members = IdCode.GenerateRandomSisu(maxMembers);
+            IdCode.CheckAndDisplayMembers(members);
+        }
     }
 }
